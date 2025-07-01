@@ -1,0 +1,13 @@
+mcp
+fastmcp
+langgraph
+neo4j
+FastAPI
+Uvicorn
+openai
+langchain
+langchain-neo4j
+langchain-openai
+langchain-mcp-adapters
+azure-identity
+azure-keyvault-secrets
